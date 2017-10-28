@@ -83,6 +83,24 @@ post img, post p {
     max-width: 90vw;
     width: 560pt;
     flex: 1;
+    font-size: 14pt;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+post p {
+    text-align: center;
+    margin-top: 10pt;
+}
+
+.in-text-button {
+    padding: 10pt;
+    margin: 15pt;
+    color: white;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14pt;
+    background-color: #4885ed;
 }
 
 nav {
