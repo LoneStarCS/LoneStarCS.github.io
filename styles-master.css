@@ -67,6 +67,24 @@ div, img, h1, p, html, body{
     align-content: flex-start;
 }
 
+post {
+    max-width: 90vw;
+    width: 560pt;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: flex-start;
+
+}
+
+post img, post p {
+    max-width: 90vw;
+    width: 560pt;
+    flex: 1;
+}
+
 nav {
     max-width: 100vw;
     width: 100vw;
