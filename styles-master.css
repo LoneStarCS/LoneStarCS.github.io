@@ -140,6 +140,13 @@ nav ul li a:active{
     background-color: #ed003a;
 }
 
+.chatbar{
+    border:0;
+    width:80%;
+    height:450px;
+    margin-top:15pt;
+}
+
 @media only screen and (max-width: 500pt) {
     .mobile {
         display: flex;
