@@ -136,6 +136,10 @@ nav ul li a:active{
     opacity: .4;
 }
 
+.event-ended-button{
+    background-color: #ed003a;
+}
+
 @media only screen and (max-width: 500pt) {
     .mobile {
         display: flex;
