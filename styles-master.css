@@ -164,6 +164,15 @@ nav ul li a:active{
     .sidebar-img{
         max-width: 50vw;
     }
+    nav ul li a {
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        color: black;
+        font-size: 16pt;
+        min-height:40pt;
+        height:40pt;
+        padding: 10pt;
+    }
 }
 @media only screen and (min-width: 501pt) {
     .mobile {
