@@ -148,6 +148,11 @@ nav ul li a:active{
     margin-top:15pt;
 }
 
+.big-button{
+    font-size: 24pt;
+    padding: 30pt;
+}
+
 @media only screen and (max-width: 500pt) {
     .mobile {
         display: flex;
