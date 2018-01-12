@@ -170,16 +170,15 @@ nav ul li a:active{
         max-width: 50vw;
     }
     nav{
-        height:80pt;
+        height:100pt;
     }
     nav ul li a {
         font-family: 'Roboto', sans-serif;
         text-decoration: none;
         color: black;
-        font-size: 20pt;
+        font-size: 60pt;
         min-height:40pt;
         height:40pt;
-        max-height:40pt;
         padding: 10pt;
     }
 }
