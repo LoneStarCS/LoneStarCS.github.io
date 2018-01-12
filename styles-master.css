@@ -171,16 +171,19 @@ nav ul li a:active{
         max-width: 50vw;
     }
     nav{
-        height:100pt;
+        height:.6in;
     }
     nav ul li a {
         font-family: 'Roboto', sans-serif;
         text-decoration: none;
         color: black;
-        font-size: 40pt;
+        font-size: .2in;
         min-height:40pt;
-        height:40pt;
-        padding: 15pt;
+        height:.2in;
+        padding: .1in;
+    }
+    post img, post p {
+        font-size: .2in;
     }
 }
 @media only screen and (orientation: landscape) {
