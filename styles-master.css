@@ -74,6 +74,7 @@ post img, post p {
 post p {
     text-align: center;
     margin-top: 10pt;
+    margin-bottom: 20pt;
 }
 
 .in-text-button {
